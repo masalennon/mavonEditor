@@ -20,7 +20,7 @@ import words_en from './lang/en/words_en.json'
 import words_fr from './lang/fr/words_fr.json'
 import words_pt_BR from './lang/pt-BR/words_pt-BR.json'
 import words_ru from './lang/ru/words_ru.json'
-export const CONFIG = {
+export const  = {
     'help_zh-CN': help_zh_CN,
     'help_pt-BR': help_pt_BR,
     'help_en': help_en,
