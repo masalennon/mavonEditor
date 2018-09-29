@@ -2,7 +2,6 @@
 /.idea/*
 /.git/*
 /img/*
-/src/dev/*
 LICENSE
 npm-debug.log
 git-debug.log
